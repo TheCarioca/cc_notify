@@ -34,5 +34,5 @@ Vale ressaltar, que o determinadas funções possam apresentar problemas de acor
 Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](https://desktop.github.com).
 
 ## Contato
-- **Servidor Discord: https://discord.gg/kYFy8JwVfd**
+- **Servidor Discord: https://discord.gg/78sERGaWQm**
 - **Discord: ropii#0001**
