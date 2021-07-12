@@ -4,7 +4,7 @@
 # By Carioca
 Uma simples Notify que será divulgada de graça para a comunidade. Era material de estudo meu e decidi soltar por aqui. :)
 
-**Visualização:**
+# Visualização
 ![alt text](https://media.discordapp.net/attachments/776536471195877376/863461136300900352/unknown.png)
 
 ## Tipos:
