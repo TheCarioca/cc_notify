@@ -1,11 +1,11 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
------------- DESENVOLVIDO POR CARIOCA COMMUNITY -- DISCORD: discord.gg/78sERGaWQm -- SCRIPT GRATUITO -- FAVOR NÃO REVENDER! -------------
+------------ DESENVOLVIDO POR CARIOCA DEVELOPMET -- DISCORD: discord.gg/78sERGaWQm -- SCRIPT GRATUITO -- FAVOR NÃO REVENDER! -------------
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 fx_version 'adamant'
 game 'gta5'
 
-author 'Carioca Community'
+author 'Carioca Development'
 contact 'discord.gg/78sERGaWQm'
 
 ui_page 'ui/index.html'
